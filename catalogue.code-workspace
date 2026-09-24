@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../catalogue"
+		},
+		{
+			"name": "catalogue-unit-tests",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
