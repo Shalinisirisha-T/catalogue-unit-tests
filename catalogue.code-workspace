@@ -6,6 +6,10 @@
 		{
 			"name": "catalogue-unit-tests",
 			"path": "."
+		},
+		{
+			"name": "jenkins-shared-library",
+			"path": "../jenkins-shared-library/jenkins-shared-library"
 		}
 	],
 	"settings": {}
